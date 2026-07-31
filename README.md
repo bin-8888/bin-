@@ -24,6 +24,6 @@
 ## 当前系统边界
 
 - Obsidian 已安装并打开此 Vault。
-- `obsidian-git` 已安装，本地 Git `main` 分支和 GitHub `origin` 已准备，但首个提交和远端认证尚未完成。
+- `obsidian-git` 已安装，本地 Git `main` 分支、GitHub `origin` 和首个本地提交已完成；远端 Push 因 GitHub 网络连接失败暂未完成。
 - GitHub CLI 未安装，远端仓库的读写权限尚未验证。
 - Git 同步配置完成前，不会上传 Vault 内容。
