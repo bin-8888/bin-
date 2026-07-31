@@ -1,0 +1,20 @@
+# Obsidian transient state
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Obsidian recycle bin and operating-system files
+.trash/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local secrets and temporary exports
+.env
+.env.*
+*.secret
+*.pem
+*.key
+*.log
+
