@@ -1,12 +1,17 @@
 ---
 source: "xiaohongshu"
 title: "ASML未来光刻展厅｜一束光的空间叙事"
+author: "见境设计Studio"
 url: "https://www.xiaohongshu.com/explore/6a60e13d000000000100e26f?xsec_token=ABJgUryxmgLo_4TruR6Rs5i78510Jy96VBneA1KO9ML1c=&xsec_source=pc_search&source=web_explore_feed"
 captured_at: "2026-07-31T15:02:37+08:00"
+status: "processed"
+category: "竞品案例分析"
+processed_at: "2026-08-18"
+summary_note: "[[ASML未来光刻展厅｜一束光的空间叙事_拆解]]"
 tags:
   - 行业资讯/展览设计
   - 来源/小红书
-  - 待拆解
+  - 已整理
 ---
 
 # ASML未来光刻展厅｜一束光的空间叙事
@@ -177,3 +182,8 @@ ai总结93篇笔记生成
 你是想 **找附近的科技展厅去参观游玩** ，还是正在 **做企业/学校科技展厅的设计策划** ？可以告诉我你的具体需求，我帮你做更精准的推荐！
 
 <iframe src=""></iframe>
+
+## 处理记录
+
+- 归档位置：`03_资源_Resources/02_行业文章/媒体专栏文章`
+- 内容拆解：[[ASML未来光刻展厅｜一束光的空间叙事_拆解]]
